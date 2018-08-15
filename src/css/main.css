@@ -1,3 +1,19 @@
 html{
   background-color:#0079bf;
 }
+
+#board-header{
+  height: 32px;
+  position: relative;
+  top: 40px;
+}
+
+#board-container{
+  position: relative;
+  top:30px;
+}
+
+.listContainer{
+  width: 270px;
+  background-color: lightblue;
+}
